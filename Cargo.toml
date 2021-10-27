@@ -34,6 +34,7 @@ optional = true
 
 [dependencies.intel-mkl-src]
 version = "0.6"
+default-features = false
 optional = true
 
 [dependencies.netlib-src]
